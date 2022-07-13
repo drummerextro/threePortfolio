@@ -1,0 +1,14 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "my 3d portfolio",
+  "main": "main.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "danny serrano",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.142.0"
+  }
+}
