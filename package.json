@@ -1,0 +1,27 @@
+{
+  "name": "threeportfolio",
+  "version": "1.0.0",
+  "description": "a personal portfolio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drummerextro/threePortfolio.git"
+  },
+  "author": "Luis Serrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drummerextro/threePortfolio/issues"
+  },
+  "homepage": "https://github.com/drummerextro/threePortfolio#readme",
+  "devDependencies": {
+    "vite": "^3.0.0"
+  },
+  "dependencies": {
+    "three": "^0.142.0"
+  }
+}
